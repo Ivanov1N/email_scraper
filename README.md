@@ -1,10 +1,10 @@
 # Email Scraper
 
-Web scraping script for extracting all emails from a website.
+This is a scraping script designed to extract emails from a website.
 
 ## Description
 
-It crawls all pages of the input URL and pulls out the emails it finds. 
+It crawls the pages of the input URL and retrieves any emails it discovers. Currently, this is my latest project, and I am still actively working on it. My goal is to develop a Tkinter GUI for the script, as well as incorporate option to test and utilize a proxy server. Additionally, I plan to include a function that allows the user to export the data in various formats.
 
 ## Dependencies
 
