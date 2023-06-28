@@ -1,4 +1,4 @@
-# Email Scraper
+# Emails Scraper
 
 This is a scraping script designed to extract emails from a website.
 
